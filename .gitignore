@@ -1,3 +1,6 @@
+# My specifics
+build/
+
 # Prerequisites
 *.d
 
